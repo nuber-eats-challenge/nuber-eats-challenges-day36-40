@@ -50,6 +50,8 @@ form의 handleSubmit의 콜백함수 같은 경우에는 테스트가 어렵습�
 - 오늘의 강의: 우버 이츠 클론코딩 강의 #24.0 - #24.3 (21.09.27 - 10.01)
 - 오늘의 과제: 위의 강의를 시청하신 후, 아래 코드 챌린지를 제출하세요.
 
+### Code Challenge
+
 이제 마무리 시간입니다. 이번주 토요일 오전 6시까지 챌린지의 podcast discovery app을 완성하시고, 프론트엔드를 Netlify에 deploy하셔서 마무리 하세요. 아래는 구현할 것들입니다.
 
 ##### Listener & Host:
@@ -79,24 +81,6 @@ form의 handleSubmit의 콜백함수 같은 경우에는 테스트가 어렵습�
 - See Feed (Episodes of Podcasts the user is subscribed to combined)
 
 ###### React를 이용하여 Audio player를 직접 구현하시면 가산점이 있습니다
-
-### Code Challenge
-- On this two day challenge we are going to build two screens, after the user logs in, the user will go to 'Home', there it can see all the podcasts in a nice list! When the user clicks on a podcast, the user can see the episodes of the podcast. That's it!
-
-- [ ] Podcast List 만들기
-- 로그인 후 이동할 페이지입니다.
-- 팟캐스트 리스트들을 보여주면 됩니다.
-- [ ] Podcast Detail 만들기
-- 위의 팟캐스트 리스트 페이지에서 팟캐스트를 클릭하면 나오는 페이지 입니다.
-- 팟캐스트의 세부 에피소드들을 보여주시면 됩니다.
-
-Here are two examples of the Google Podcasts app:
-
-Podcasts List
-- ![](https://i.imgur.com/7JdseeF.jpg)
-
-Podcast Detail
-- ![](https://i.imgur.com/jNijGbz.jpg)
 
 
 
